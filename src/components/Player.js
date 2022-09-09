@@ -181,7 +181,7 @@ const Player = ({height,width}) => {
     enemies.update();
     gameFrame++;
     displayStatus(context);
-    if(score > 10){
+    if(score > 1500){
       gameOver = true;
       context.drawImage(winImg, 0,0 , width, height);
       context.fillStyle = "white";
@@ -192,7 +192,7 @@ const Player = ({height,width}) => {
     if (!gameOver) {
       requestAnimationFrame(animate)
     }
-    else if(score<10){ // when game is over
+    else if(score<1500){ // when game is over
       context.drawImage(gameOverImg, width / 4, height / 4, width / 2, height / 2);
       context.fillStyle = "white";
       context.font = "40px Inter"
