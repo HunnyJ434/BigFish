@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import '../App.css';
 
-let gameSpeed = 2;
+let gameSpeed = 5;
 let gameFrame = 1;
 let backgroundSelector = 1;
 
