@@ -1,6 +1,6 @@
-#Big Fish
+# Big Fish
 
-##Big Fish is an immersive and visually captivating 2D self-scrolling game developed using React.js and JavaScript Canvas. With advanced techniques and thoughtful design, Big Fish delivers a rich gaming experience that will keep players engaged for hours.
+## Big Fish is an immersive and visually captivating 2D self-scrolling game developed using React.js and JavaScript Canvas. With advanced techniques and thoughtful design, Big Fish delivers a rich gaming experience that will keep players engaged for hours.
 
 Features
 **Immersive Gameplay**: Dive into the underwater world of Big Fish and navigate through dynamically changing environments.
